@@ -1,3 +1,4 @@
+![loop](https://github.com/MadhavKumar18/MadhavKumar18/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
 
 <h3 align="center">🚀 Data Science & Artificial Intelligence Enthusiast</h3>
